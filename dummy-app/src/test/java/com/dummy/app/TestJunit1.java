@@ -11,7 +11,8 @@ public class TestJunit1 {
 
    @Test
    public void testPrintMessage() {
-      System.out.println("Inside the testPrintMessage()");
+      System.out.println("Inside the unit test!");
       assertEquals(message, messageUtil.printMessage());
+      System.out.println("Exiting the unit test!");
    }
 }
