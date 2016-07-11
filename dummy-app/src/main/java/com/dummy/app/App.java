@@ -6,6 +6,6 @@ package com.dummy.app;
  */
 public class App {
     public static void main( String[] args ) {
-        System.out.println( "Hello World 5! This is my sample Maven application." );
+        System.out.println( "Hello World 6! This is my sample Maven application." );
     }
 }
